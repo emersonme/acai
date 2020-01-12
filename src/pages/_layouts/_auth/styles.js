@@ -1,6 +1,6 @@
 import styled from 'styled-components'
-import colors from '~/utils/colors'
 import {darken} from 'polished'
+import colors from '~/utils/colors'
 
 export const Wrapper = styled.div`
   height: 100%;
